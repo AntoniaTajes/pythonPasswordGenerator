@@ -1,2 +1,4 @@
-# pythonPasswordGenerator
-Small python program that generates random passwords and saves them into a file.
+# python_password_generator
+The "Password Generator" program is a simple Python script that generates random passwords of a specified length using a combination of uppercase and lowercase letters, digits, and special characters. It includes a function called generate_password() that takes the desired password length as an argument and returns the generated password. The program also includes a new function called generate_passwords() that generates a specified number of passwords of a specified length using the generate_password() function. The passwords can be printed to the console or saved to a file using the new save_passwords_to_file() function.
+
+This program demonstrates some basic programming concepts, such as working with strings and lists, as well as more advanced concepts, such as working with files and functions.
